@@ -1,5 +1,5 @@
 # PHPe-GP_module (Thai e-Government Procurement)
-## php ≥ 8.x
+## php ≥ 7.x
 ### example
 ```
 <?php
