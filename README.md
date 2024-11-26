@@ -39,9 +39,3 @@ fclose($csvFile);
 ```
 
 ![image](https://github.com/user-attachments/assets/03d63d93-dbb7-47ea-8d42-cbc9ae190d15)
-
-
-###### JavaScript
-###### https://github.com/h4rdl0ckl3z/JSe-GP_module
-###### Python
-###### https://github.com/h4rdl0ckl3z/PYe-GP_module
