@@ -43,7 +43,7 @@ function fetchData($dept_id, $anounce_type) {
 
             // Use a loop to filter tags and build the list_data array
             foreach ($item as $key => $value) {
-                if ($key !== 'description' && $key !== 'guid') {
+                if ($key !== 'guid') {
                     $list_data[$key] = (string) $value;
                 }
             }
